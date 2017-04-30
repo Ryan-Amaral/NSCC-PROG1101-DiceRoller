@@ -1,0 +1,1 @@
+A project for my intro to programming class at NSCC. You can roll some dice, it shows how many times you rolled different things.
